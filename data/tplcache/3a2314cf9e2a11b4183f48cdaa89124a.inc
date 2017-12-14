@@ -1,0 +1,1 @@
+<span class="news_cn_title">[field:typename /]</span>
